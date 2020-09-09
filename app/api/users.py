@@ -8,7 +8,7 @@ router = APIRouter()
 
 @router.get('/')
 async def check():
-    return {"Hello": "Worldd"}
+    return {"Hello": "Worlddd"}
 
 
 @router.post('/sing-up')
