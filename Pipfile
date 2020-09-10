@@ -14,6 +14,7 @@ databases = {extras = ["postgresql"], version = "*"}
 uvicorn = "*"
 python-dotenv = "*"
 pydantic = {extras = ["email"], version = "*"}
+python-multipart = "*"
 
 [requires]
 python_version = "3.8"
